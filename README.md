@@ -5,15 +5,15 @@
     <img src="https://readme-typing-svg.herokuapp.com?color=%236FDA44&size=32&center=true&vCenter=true&width=600&height=50&lines=Front-End+Engineer;Bacharel+Ciência+da+Computação;Pós-Graduando+em+Front-End;" alt="Headline" />
 </div>
 
-<h1 align="center">Olá 👋, Eu sou {Vicente}</h1>
-<h3 align="center">{Seu-cargo-aqui} residente em {Cidade-Estado}/{País}.</h3>
-<p align="center">{Aqui-um-resumo-sobre-sua-carreira-com-5-linhas-no-máximo-e-lembre-de-destacar-seus-pontos-fortes-e-principais-tecnologias}</p>
+<h1 align="center">Olá 👋, Eu sou Vicente</h1>
+<h3 align="center">Curioso residente em São Paulo/BR.</h3>
+<p align="center">{Em breve}</p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=manualdofront&label=Visualizações%20no%20perfil&color=0e75b6&style=flat" alt="manualdofront" /> </p>
 
 > _🚨☝️ Lembre-se de trocar as citações por "manualdofront" no link acima pelo seu username do Github e remover esse comentário._
 
-- 🔭 Atualmente, eu trabalho na [Nome-da-empresa](https://site-da-empresa.com/).
+- 🔭 Atualmente, eu trabalho na [MB](https://site-da-empresa.com/).
 
 - 🌱 Meus estudos atuais focam em **Front End (Angular, JavaScript and TypeScript)** e **Application Design (Hexagonal Architecture)**.
 
