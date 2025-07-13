@@ -13,7 +13,7 @@
 
 > _🚨☝️ Lembre-se de trocar as citações por "manualdofront" no link acima pelo seu username do Github e remover esse comentário._
 
-- 🔭 Atualmente, eu trabalho na [MB](https://site-da-empresa.com/).
+- 🔭 Atualmente, eu trabalho nas [FFAA](https://site-da-empresa.com/).
 
 - 🌱 Meus estudos atuais focam em **Front End (Angular, JavaScript and TypeScript)** e **Application Design (Hexagonal Architecture)**.
 
